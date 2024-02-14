@@ -1,0 +1,15 @@
+.container{
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+    /* margin-top: 40%; */
+}
+.big{
+    font-size: 45px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+.small{
+    font-size: 25px;
+}

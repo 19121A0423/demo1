@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+   background: url(https://www.okynemedialab.com/wp-content/uploads/2019/11/netflix-background-50-Black-1024x576.jpg);
+    height: 95vh;
+    background-size: cover;
+    background-position: center;
+
+}

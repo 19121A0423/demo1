@@ -1,0 +1,28 @@
+.container{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+p{
+    font-size: 25px;
+}
+.search{
+    display: flex;
+}
+input{
+    margin-left: 40px;
+}
+input, button{
+    font-size: larger;
+    width: 55%;
+    height: 50px;
+    border-radius: 10px;
+    border: 1.5px solid black;
+}
+button{
+    width: 25%;
+    background-color: red;
+    color: white;
+    margin-left: 10px;
+}
